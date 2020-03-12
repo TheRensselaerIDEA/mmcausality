@@ -1,0 +1,323 @@
+Source,Target,Type edge,Score SAM,p value score,Correlation
+Cancer,Cardiovascular,undirected destructive (positive impact),0.99331796,6.45927633179744e-68,0.6338784543389692
+Teen Birth Rate,Cardiovascular,directed destructive (positive impact),0.84836525,1.1254038538930538e-11,0.4847899113498609
+Food Insecure,Cardiovascular,directed destructive (positive impact),0.7969546999999999,8.868864331027219e-08,0.5842361719418414
+Diabetes Prevalence,Cardiovascular,directed destructive (positive impact),0.7864372,9.753318916606177e-07,0.6352166489312606
+African American,Despair,directed protective (negative impact),0.91890204,7.562043046215103e-13,-0.1070860945778262
+Mentally Unhealthy Days,Despair,directed destructive (positive impact),0.91835785,1.0779594573573699e-18,0.36088023115529744
+Association Rate,Despair,undirected protective (negative impact),0.91555816,3.686991007927074e-16,-0.29118705409060136
+Cardiovascular,Despair,directed destructive (positive impact),0.7622004,0.00031106298082771,0.2447900952187456
+Mental Health Prov Ratio,Despair,directed protective (negative impact),0.75937086,0.0005233451928391106,-0.185901156141656
+Cancer,Despair,directed destructive (positive impact),0.7012083,0.010094367258915531,0.2996346875448913
+Cancer,Assault,directed protective (negative impact),0.88800764,1.059330683106647e-09,-0.1123894270581687
+Despair,Assault,directed destructive (positive impact),0.8362040000000001,9.193870882045537e-08,0.05585277259308692
+Access To Healthy Foods,Assault,directed destructive (positive impact),0.73919046,0.00024966244522580425,0.35067472074223954
+HIV Prevalence Rate,Assault,undirected destructive (positive impact),0.7276019,0.0005503719395296505,0.21535215731288315
+Homeownership,Assault,directed protective (negative impact),0.5510906,0.5077464281526278,-0.2239360477985392
+Cardiovascular,Cancer,undirected destructive (positive impact),0.9963146,2.4653277947585885e-76,0.6338784543389692
+Older Than 65,Cancer,directed destructive (positive impact),0.876223,2.0314526596788046e-11,0.0916797190833227
+Hispanic,Cancer,directed protective (negative impact),0.5189479,0.8039655475357661,-0.2490159312237296
+80th Percentile Income,20th Percentile Income,undirected destructive (positive impact),0.99759865,5.08520933488097e-84,0.8598012312455495
+Income Ratio,20th Percentile Income,undirected protective (negative impact),0.9964988,1.4589308725282695e-74,-0.6316976280755731
+20th Percentile Income,80th Percentile Income,undirected destructive (positive impact),0.9955875,1.9792060740402237e-73,0.8598012312455495
+Income Ratio,80th Percentile Income,undirected protective (negative impact),0.9954067,2.8428142951181565e-61,-0.19474209011351207
+Median Household Income,80th Percentile Income,undirected destructive (positive impact),0.9409664,1.1322255444447625e-20,0.9406948452619208
+Food Environment Index,Access To Healthy Foods,undirected protective (negative impact),0.9906128,3.1886119568213455e-53,-0.7626259744025241
+Food Insecure,Access To Healthy Foods,undirected destructive (positive impact),0.54665434,0.5521211784561595,0.166221449542057
+Physically Inactive,Adult Obesity,undirected destructive (positive impact),0.9712333,4.774467083623655e-45,0.6904090927127564
+Diabetes Prevalence,Adult Obesity,undirected destructive (positive impact),0.91448057,7.229461922511273e-13,0.6626666158297083
+Adult Smoking,Adult Obesity,undirected destructive (positive impact),0.8592396000000001,1.133227750866558e-09,0.5745474514718987
+Younger Than 18,Adult Obesity,directed destructive (positive impact),0.5994403,0.22013049209397406,0.18074915365251065
+Low Birthweight,Adult Obesity,directed destructive (positive impact),0.58196926,0.21884997446927168,0.2666090890972428
+Uninsured Children,Adult Obesity,directed protective (negative impact),0.5758044,0.3477117792395906,-0.1030684006816676
+Hispanic,Adult Obesity,directed protective (negative impact),0.57413805,0.3694498677803386,-0.2902988887485009
+Severe Housing Costs,Adult Obesity,directed protective (negative impact),0.55906665,0.4518230573453398,-0.1910130070274417
+Freq Physical Distress,Adult Smoking,directed destructive (positive impact),0.9903859,5.261309146043692e-55,0.811681753045101
+Hispanic,Adult Smoking,undirected protective (negative impact),0.98986655,2.9027635077149596e-55,-0.2667325983652976
+Adult Obesity,Adult Smoking,undirected destructive (positive impact),0.89666134,3.914176945012721e-16,0.5745474514718987
+Older Than 65,Adult Smoking,directed protective (negative impact),0.89372146,6.71326717492145e-13,-0.13252794863857836
+Non-Hispanic White,African American,undirected protective (negative impact),0.9899496,3.651713785180025e-52,-0.598419085526821
+Hispanic,African American,undirected protective (negative impact),0.9811211,2.0038595877429158e-31,-0.10790344427725464
+Low Birthweight,African American,undirected destructive (positive impact),0.82243025,4.52275855135689e-06,0.6854109145708174
+Amer Indian/Alaskan Native,African American,directed protective (negative impact),0.59557426,0.1778740278091345,-0.11008515826267654
+Amer Indian/Alaskan Native,Air Quality,undirected protective (negative impact),0.9938336,1.1336150156862039e-61,-0.20240574925498475
+Social Associations,Air Quality,undirected destructive (positive impact),0.98442376,1.3744560365216483e-44,0.20535722169387688
+Insufficient Sleep,Air Quality,undirected destructive (positive impact),0.93314356,4.2151269871750776e-20,0.5382200121462735
+Driving Alone,Air Quality,undirected destructive (positive impact),0.9158624,1.731953839266219e-18,0.4006934180990847
+Physical Environment,Air Quality,undirected destructive (positive impact),0.7828165,2.9962986627464446e-05,0.34560736303212714
+Physically Inactive,Air Quality,directed destructive (positive impact),0.5956562,0.2280027911328573,0.3207531616184237
+Drive Alone Long Commute,Air Quality,undirected destructive (positive impact),0.54837704,0.5252107096562196,0.31862477811383016
+Diabetes Prevalence,Air Quality,directed destructive (positive impact),0.5057449,0.942197962270536,0.3832081331555859
+Excessive Drinking,Alcohol Impaired,directed destructive (positive impact),0.7787708000000001,5.9993099836535936e-05,0.14191745542892992
+Amer Indian/Alaskan Native,Alcohol Impaired,directed destructive (positive impact),0.5073949000000001,0.9241077452971392,0.1145953344049042
+Adult Smoking,Amer Indian/Alaskan Native,directed destructive (positive impact),0.98473954,1.1168011030859167e-39,0.2948086839933354
+Air Quality,Amer Indian/Alaskan Native,undirected protective (negative impact),0.93143934,4.23631375680049e-17,-0.20240574925498475
+Overcrowding,Amer Indian/Alaskan Native,directed destructive (positive impact),0.9197979,9.817246801499884e-14,0.5263472566945517
+Segregation(NonWhite/White),Amer Indian/Alaskan Native,directed destructive (positive impact),0.733581,0.00048087423370681015,0.08991191360109374
+Hispanic,Amer Indian/Alaskan Native,directed destructive (positive impact),0.5807762,0.31136419830773404,0.006362186585308518
+Graduation Rate,Amer Indian/Alaskan Native,undirected protective (negative impact),0.5464606,0.513039849001419,-0.2574832906812909
+Drive Alone Long Commute,Amer Indian/Alaskan Native,undirected protective (negative impact),0.51959044,0.8103956508081415,-0.1723880373101373
+Native Hawaiian Islander,Asian,directed destructive (positive impact),0.9940787,2.3113359977550633e-58,0.2487447488743965
+80th Percentile Income,Asian,directed destructive (positive impact),0.9625881,1.1296235627020279e-27,0.5282712579817288
+Social Associations,Asian,undirected destructive (positive impact),0.9402926,8.914935829911941e-17,0.4751047085783511
+Homeownership,Asian,directed protective (negative impact),0.7229097,0.0017264983286814865,-0.3684535873793251
+Older Than 65,Association Rate,undirected destructive (positive impact),0.9688893,4.788197240059934e-37,0.3586459841868569
+Severe Housing Problems,Association Rate,directed protective (negative impact),0.9650574,7.838720366284946e-30,-0.3932259740971994
+Drive Alone Long Commute,Association Rate,undirected protective (negative impact),0.9459866,5.278029347937915e-16,-0.308361267858258
+Despair,Association Rate,undirected protective (negative impact),0.650678,0.01812639312599729,-0.29118705409060136
+Mentally Unhealthy Days,Association Rate,directed protective (negative impact),0.6273023,0.11496952646294654,-0.32939744968344226
+Median Household Income,Children In Poverty,undirected protective (negative impact),0.9949314,1.3507132385333294e-71,-0.7947040543059722
+Free Or Reduced Lunch,Children In Poverty,undirected destructive (positive impact),0.9594485,4.105635242461055e-34,0.7656617516466309
+Single Parent Households,Children In Poverty,undirected destructive (positive impact),0.88114357,5.871452330526418e-21,0.6663124122851496
+Socio-Economic,Children In Poverty,undirected destructive (positive impact),0.71878624,0.0003879942583104164,0.6895632784015593
+Food Insecure,Children In Poverty,directed destructive (positive impact),0.6343141999999999,0.02048259582630612,0.7481490509203667
+Socio-Economic,Clinical Care,undirected destructive (positive impact),0.9853528,2.9967663723934125e-43,0.5259731474748057
+Prev Hospital Stays,Clinical Care,undirected destructive (positive impact),0.98422915,5.195037632907188e-43,0.44894062712818295
+Prim Care Physicians Rate,Clinical Care,directed protective (negative impact),0.95367384,2.610141998326054e-18,-0.4829976820870909
+Flu Vaccinated,Clinical Care,undirected protective (negative impact),0.9321422,9.45852936443172e-17,-0.4983847542369072
+Rural,Clinical Care,directed destructive (positive impact),0.9146054,7.029895229122223e-14,0.4238294682683193
+Food Insecure,Clinical Care,directed destructive (positive impact),0.7240076,0.00427089551861025,0.1612463076261697
+Not Proficient In English,Clinical Care,undirected destructive (positive impact),0.72315454,0.003975246406139487,0.1445656143271033
+Driving Alone,Clinical Care,directed protective (negative impact),0.6480771,0.06642450415952791,-0.09020787700153374
+Prim Care Physicians Rate,Dentist Rate,undirected destructive (positive impact),0.9883216,7.243104708211826e-58,0.5160408759712773
+Mental Health Prov Rate,Dentist Rate,directed destructive (positive impact),0.9320371,3.270100530391506e-22,0.4103716282369035
+Rural,Dentist Rate,directed protective (negative impact),0.82312715,1.3024042953515712e-09,-0.4498367063485002
+Other Prim Care Prov Rate,Dentist Rate,directed destructive (positive impact),0.57112443,0.3359322822834692,0.3674907718126398
+Lack of Exercise Opps,Dentist Rate,undirected destructive (positive impact),0.51977897,0.7743297636570345,0.4299876543829314
+Older Than 65,Diabetes Prevalence,directed destructive (positive impact),0.98643774,5.137893732969004e-49,0.2262106130921153
+Adult Obesity,Diabetes Prevalence,undirected destructive (positive impact),0.9760445,4.69775323430627e-30,0.6626666158297083
+Excessive Drinking,Diabetes Prevalence,undirected protective (negative impact),0.91966534,3.925882775044997e-15,-0.6615195449538578
+Physically Inactive,Diabetes Prevalence,undirected destructive (positive impact),0.87283707,1.0929310523545843e-15,0.7569385817892763
+Insufficient Sleep,Diabetes Prevalence,directed destructive (positive impact),0.8423265999999999,6.944164906224897e-08,0.6054804863030937
+Drive Alone Long Commute,Diabetes Prevalence,directed destructive (positive impact),0.7294694,0.0018593969759235802,0.27339492551430555
+Mentally Unhealthy Days,Diabetes Prevalence,directed destructive (positive impact),0.6270353,0.096266885599335,0.6576500882066971
+Some College,Disconnected Youth,directed protective (negative impact),0.8239245000000001,6.923966993846908e-08,-0.4170424719091077
+Teen Birth Rate,Disconnected Youth,directed destructive (positive impact),0.5813824000000001,0.2192044233434593,0.40993617811752303
+Homeownership,Drive Alone Long Commute,undirected destructive (positive impact),0.9481196,1.4027250165917725e-15,0.3124695415858524
+Association Rate,Drive Alone Long Commute,undirected protective (negative impact),0.94619155,4.449377252690706e-20,-0.308361267858258
+Prim Care Physicians Ratio,Drive Alone Long Commute,directed destructive (positive impact),0.9250497,4.3258842309688784e-14,0.2972355253690578
+Air Quality,Drive Alone Long Commute,undirected destructive (positive impact),0.90154684,1.5330779156862756e-10,0.31862477811383016
+Rural,Drive Alone Long Commute,directed destructive (positive impact),0.8888543999999999,1.6871843260696353e-08,0.19208516301092046
+Amer Indian/Alaskan Native,Drive Alone Long Commute,undirected protective (negative impact),0.85990727,4.989294738556323e-08,-0.1723880373101373
+Social Associations,Drive Alone Long Commute,directed destructive (positive impact),0.7174324000000001,0.0055416529394601115,0.09653482764878346
+80th Percentile Income,Drive Alone Long Commute,directed destructive (positive impact),0.6430059,0.090894366853926,0.13670451530592306
+Air Quality,Driving Alone,undirected destructive (positive impact),0.9748715,1.4859778143343287e-37,0.4006934180990847
+Severe Housing Problems,Driving Alone,directed protective (negative impact),0.9317134,7.817163659864149e-17,-0.3103089777377813
+Physical Environment,Driving Alone,undirected destructive (positive impact),0.93110895,2.3600502068402576e-15,0.24917398056066145
+Inadequate Facilities,Driving Alone,directed protective (negative impact),0.6932076,0.0033200981863753627,-0.3765167457870077
+Diabetes Prevalence,Driving Alone,directed destructive (positive impact),0.68458986,0.013146082186481544,0.3676672651571177
+Assault,Driving Alone,directed protective (negative impact),0.5710089,0.3304361918824725,-0.2383093897937236
+Diabetes Prevalence,Excessive Drinking,undirected protective (negative impact),0.9755113,2.084466281791944e-39,-0.6615195449538578
+Fair Or Poor Health,Excessive Drinking,directed protective (negative impact),0.971456,2.1106637664852994e-32,-0.6645208555517449
+Uninsured Adults,Excessive Drinking,directed protective (negative impact),0.9418636,2.1471222707767753e-21,-0.3873988578597261
+Older Than 65,Excessive Drinking,directed protective (negative impact),0.8257667999999999,4.723657373752317e-06,-0.162091702298131
+Adult Smoking,Excessive Drinking,directed protective (negative impact),0.7300726,0.0019404619879124574,-0.4533156609279614
+Freq Physical Distress,Fair Or Poor Health,undirected destructive (positive impact),0.9955533,4.595458628304067e-71,0.9294543304891508
+Physically Inactive,Fair Or Poor Health,directed destructive (positive impact),0.9248953,1.9323933768212235e-15,0.5725982012008202
+Hispanic,Fair Or Poor Health,directed destructive (positive impact),0.85383666,4.6931610315603676e-08,0.27092264363655705
+Non-Hispanic White,Fair Or Poor Health,directed protective (negative impact),0.5639941999999999,0.4592741084498173,-0.5465021373765313
+Social Associations,Female,directed destructive (positive impact),0.98652637,9.647235719563039e-39,0.16216477527712064
+Some College,Female,undirected destructive (positive impact),0.9481263,8.135476227574786e-20,0.23580361785494625
+Diabetes Prevalence,Female,directed destructive (positive impact),0.88118064,1.7656021829014176e-10,0.20947372636905887
+African American,Female,directed destructive (positive impact),0.80043644,2.443682571229862e-05,0.1435104263573761
+Younger Than 18,Female,undirected destructive (positive impact),0.7845029,0.0001376841405920475,0.1828070809432593
+Excessive Drinking,Female,directed protective (negative impact),0.77004063,0.0002111727928304032,-0.19079049715577812
+Clinical Care,Flu Vaccinated,undirected protective (negative impact),0.94467264,7.058111061612812e-18,-0.4983847542369072
+Air Quality,Flu Vaccinated,directed destructive (positive impact),0.90728766,3.8030698506281115e-11,0.2744940519564
+Food Environment Index,Flu Vaccinated,directed destructive (positive impact),0.90570176,1.4413582701708926e-13,0.34052823461768217
+Access To Healthy Foods,Food Environment Index,undirected protective (negative impact),0.99524564,2.5517698127459963e-68,-0.7626259744025241
+Food Insecure,Food Environment Index,undirected protective (negative impact),0.9942174,9.699236362731147e-59,-0.7623991366447129
+Food Environment Index,Food Insecure,undirected protective (negative impact),0.9943783000000002,9.442740296389451e-68,-0.7623991366447129
+Access To Healthy Foods,Food Insecure,undirected destructive (positive impact),0.5662723000000001,0.4354536811721623,0.166221449542057
+Children In Poverty,Free Or Reduced Lunch,undirected destructive (positive impact),0.9939138,3.8070031062095217e-66,0.7656617516466309
+Non-Hispanic White,Free Or Reduced Lunch,directed protective (negative impact),0.97683555,1.4658248853324507e-31,-0.5393779670568201
+Excessive Drinking,Free Or Reduced Lunch,directed protective (negative impact),0.6566943000000001,0.034129962447089206,-0.5359259482082174
+Mentally Unhealthy Days,Freq Mental Distress,undirected destructive (positive impact),0.99404174,5.813169788407019e-68,0.9544975517742628
+Freq Physical Distress,Freq Mental Distress,undirected destructive (positive impact),0.97462994,5.097853456247462e-44,0.9553108913331316
+Amer Indian/Alaskan Native,Freq Mental Distress,directed destructive (positive impact),0.72335553,0.0007281537546236205,0.25773273720798817
+20th Percentile Income,Freq Mental Distress,directed protective (negative impact),0.5514515999999999,0.4962306893434163,-0.7202696401371345
+Food Insecure,Freq Mental Distress,directed destructive (positive impact),0.5513332,0.3626969333177693,0.7049993210166129
+Adult Smoking,Freq Mental Distress,directed destructive (positive impact),0.5010947,0.9855432793604209,0.8176672426992758
+Physically Unhealthy Days,Freq Physical Distress,undirected destructive (positive impact),0.99270594,1.6648983625850955e-68,0.9824445483432755
+Fair Or Poor Health,Freq Physical Distress,undirected destructive (positive impact),0.96384007,1.4242267998072174e-38,0.9294543304891508
+Freq Mental Distress,Freq Physical Distress,undirected destructive (positive impact),0.8402231,4.927282149818509e-14,0.9553108913331316
+Amer Indian/Alaskan Native,Graduation Rate,undirected protective (negative impact),0.9465091,5.770682223821034e-16,-0.2574832906812909
+Socio-Economic,Graduation Rate,undirected protective (negative impact),0.8703863000000002,1.7100594894420704e-11,-0.33972997147511336
+Severe Housing Problems,Graduation Rate,directed protective (negative impact),0.854441,1.9545966979844865e-08,-0.3714972938855536
+Mental Health Prov Rate,Graduation Rate,directed protective (negative impact),0.56834537,0.3865712301677876,-0.2654262658236902
+African American,Graduation Rate,directed protective (negative impact),0.5170401,0.8292736067090373,-0.2393219580839415
+Not Proficient In English,Hispanic,undirected destructive (positive impact),0.99486315,2.050723605470902e-69,0.8083901429835336
+Non-Hispanic White,Hispanic,undirected protective (negative impact),0.98661983,3.2117637939086323e-49,-0.6114013570540978
+African American,Hispanic,undirected protective (negative impact),0.88292426,2.702963642963248e-08,-0.10790344427725464
+Asian,Hispanic,directed destructive (positive impact),0.84249854,1.0893431644714187e-06,0.16182621535040262
+Adult Smoking,Hispanic,undirected protective (negative impact),0.78778493,7.804090265183283e-05,-0.2667325983652976
+Native Hawaiian Islander,Hispanic,directed destructive (positive impact),0.7739373,0.0004781690547760863,0.028855687773668225
+African American,HIV Prevalence Rate,directed destructive (positive impact),0.9934013,1.3454588074571239e-61,0.5718636626682463
+Social Associations,HIV Prevalence Rate,directed destructive (positive impact),0.96466315,3.817880488751364e-23,0.2989043222938285
+Assault,HIV Prevalence Rate,undirected destructive (positive impact),0.7556967,5.3552064003542685e-05,0.21535215731288315
+Severe Housing Costs,HIV Prevalence Rate,directed destructive (positive impact),0.51454306,0.8494791439394447,0.35345507485610805
+Homeownership,HIV Prevalence Rate,directed protective (negative impact),0.5089231,0.9103501976695144,-0.3478053332663273
+Severe Housing Costs,Homeownership,directed protective (negative impact),0.9878271,6.926115601988568e-51,-0.5369697742193659
+Drive Alone Long Commute,Homeownership,undirected destructive (positive impact),0.97157425,1.3741418516202415e-34,0.3124695415858524
+Older Than 65,Homeownership,undirected destructive (positive impact),0.9686739,2.1802436559100274e-32,0.4513447481748282
+Sexual Trans Infect,Homeownership,undirected protective (negative impact),0.8350677,5.439808926599667e-09,-0.5197889596992897
+Native Hawaiian Islander,Homeownership,undirected protective (negative impact),0.6643235,0.03491405901458152,-0.1994881745221316
+Severe Housing Problems,Inadequate Facilities,undirected destructive (positive impact),0.95873797,1.4452715508777323e-23,0.39870979951616825
+Uninsured Children,Inadequate Facilities,directed destructive (positive impact),0.8516263000000001,7.5647935739311e-08,0.20970775700634248
+Pct Unemployed,Inadequate Facilities,undirected destructive (positive impact),0.6605975000000001,0.017432910166440566,0.2891073824635856
+20th Percentile Income,Income Ratio,undirected protective (negative impact),0.99241805,1.1290728484951987e-68,-0.6316976280755731
+80th Percentile Income,Income Ratio,undirected protective (negative impact),0.7811283,7.523374748624261e-05,-0.19474209011351207
+African American,Insufficient Sleep,directed destructive (positive impact),0.9937372,1.2649120150070934e-64,0.5486725260992095
+Mentally Unhealthy Days,Insufficient Sleep,directed destructive (positive impact),0.96895444,1.3215251589952536e-26,0.6919101668354694
+Adult Smoking,Insufficient Sleep,directed destructive (positive impact),0.95683104,3.6028629759488366e-20,0.6479190020105177
+Native Hawaiian Islander,Insufficient Sleep,directed destructive (positive impact),0.75982475,2.310525352254029e-05,0.03592353279417811
+Non-Hispanic White,Insufficient Sleep,directed protective (negative impact),0.5711315,0.3745240976639816,-0.3364799548844925
+Air Quality,Insufficient Sleep,undirected destructive (positive impact),0.56852406,0.3616574953707405,0.5382200121462735
+Rural,Lack of Exercise Opps,undirected protective (negative impact),0.98521215,1.5281523811285365e-45,-0.6061010410441914
+Food Environment Index,Lack of Exercise Opps,directed destructive (positive impact),0.8220516999999999,9.377183849855498e-09,0.3254474586409851
+Physically Inactive,Lack of Exercise Opps,undirected protective (negative impact),0.71858156,0.0007904752308793609,-0.453287947935034
+Dentist Rate,Lack of Exercise Opps,undirected destructive (positive impact),0.6345126999999999,0.07675511748060962,0.4299876543829314
+Younger Than 18,Lack of Exercise Opps,directed protective (negative impact),0.55921614,0.4302429866814512,-0.07237526561337222
+Native Hawaiian Islander,Lack of Exercise Opps,directed destructive (positive impact),0.50923496,0.9142558276875928,0.06810270502560332
+African American,Low Birthweight,undirected destructive (positive impact),0.9939985,1.3020853504628367e-68,0.6854109145708174
+Teen Birth Rate,Low Birthweight,directed destructive (positive impact),0.83925295,1.4142791848240233e-09,0.4459094473720955
+20th Percentile Income,Low Birthweight,directed protective (negative impact),0.7880884,2.3778528946935397e-06,-0.4649251937327253
+Driving Alone,Low Birthweight,directed destructive (positive impact),0.5608903000000001,0.34915509353533203,0.20328878682570387
+80th Percentile Income,Median Household Income,undirected destructive (positive impact),0.9917015,1.4813229002919043e-63,0.9406948452619208
+Children In Poverty,Median Household Income,undirected protective (negative impact),0.97163844,4.743073351389338e-34,-0.7947040543059722
+20th Percentile Income,Median Household Income,directed destructive (positive impact),0.8947282,6.943228021786293e-17,0.9181681008367578
+Native Hawaiian Islander,Median Household Income,directed destructive (positive impact),0.6162936,0.1193978162140446,0.05044308646195339
+Mental Health Prov Ratio,Mental Health Prov Rate,undirected protective (negative impact),0.9969236,2.697025196007043e-73,-0.4488129494052073
+Assault,Mental Health Prov Rate,directed protective (negative impact),0.70668364,0.0009250885865122279,-0.023374119862985026
+Mental Health Prov Rate,Mental Health Prov Ratio,undirected protective (negative impact),0.99660957,1.304291529739537e-78,-0.4488129494052073
+Assault,Mental Health Prov Ratio,directed protective (negative impact),0.99080026,1.9598895380134186e-56,-0.07434751684933959
+Freq Mental Distress,Mentally Unhealthy Days,undirected destructive (positive impact),0.9965094,6.549723601289835e-81,0.9544975517742628
+Non-Hispanic White,Mentally Unhealthy Days,directed protective (negative impact),0.8186246,7.150444358113616e-07,-0.1348971354168085
+Uninsured Children,Mentally Unhealthy Days,directed protective (negative impact),0.5103378,0.9010518847753056,-0.18555942162553868
+Younger Than 18,Native Hawaiian Islander,directed protective (negative impact),0.7977783,2.9756740857779853e-05,-0.08462576975783183
+Assault,Native Hawaiian Islander,directed destructive (positive impact),0.6010705,0.15049606240107988,0.4301152918764863
+Homeownership,Native Hawaiian Islander,undirected protective (negative impact),0.5307715999999999,0.6392751533080174,-0.1994881745221316
+African American,Non-Hispanic White,undirected protective (negative impact),0.995993,1.2157999584088844e-65,-0.598419085526821
+Hispanic,Non-Hispanic White,undirected protective (negative impact),0.9931302,3.0262725852016676e-53,-0.6114013570540978
+Amer Indian/Alaskan Native,Non-Hispanic White,directed protective (negative impact),0.99244255,4.392277845439076e-56,-0.30339009461426675
+Asian,Non-Hispanic White,directed protective (negative impact),0.9798408000000002,3.206466154680993e-32,-0.29670369175471195
+Native Hawaiian Islander,Non-Hispanic White,directed protective (negative impact),0.86823565,1.874962066439751e-08,-0.1133855939289662
+Hispanic,Not Proficient In English,undirected destructive (positive impact),0.99766946,4.721434057788896e-80,0.8083901429835336
+Asian,Not Proficient In English,directed destructive (positive impact),0.9385405,7.869597319394258e-20,0.3178040219060142
+Clinical Care,Not Proficient In English,undirected destructive (positive impact),0.53123224,0.626856107294015,0.1445656143271033
+Younger Than 18,Older Than 65,undirected protective (negative impact),0.99573356,8.431884842235152e-66,-0.5855777064238767
+Insufficient Sleep,Older Than 65,directed protective (negative impact),0.9804407,8.19164933108893e-33,-0.2561807269551579
+Homeownership,Older Than 65,undirected destructive (positive impact),0.9503293,2.4393830189599942e-15,0.4513447481748282
+Female,Older Than 65,directed destructive (positive impact),0.9300583,2.9095194203012893e-16,0.07436826340619859
+Association Rate,Older Than 65,undirected destructive (positive impact),0.8521238000000001,4.4303361916406317e-11,0.3586459841868569
+80th Percentile Income,Older Than 65,directed protective (negative impact),0.6389673,0.1046893302926078,-0.3067146976994767
+Rural,Older Than 65,undirected destructive (positive impact),0.60130733,0.1815797659218725,0.4869730393873953
+Air Quality,Older Than 65,directed protective (negative impact),0.58843577,0.26527123581686857,-0.2821655827106304
+Other Prim Care Prov Ratio,Other Prim Care Prov Rate,undirected protective (negative impact),0.9980835,1.542020618790848e-80,-0.4728633465046856
+Other Prim Care Prov Rate,Other Prim Care Prov Ratio,undirected protective (negative impact),0.99467343,1.4724279491012175e-67,-0.4728633465046856
+Assault,Other Prim Care Prov Ratio,directed protective (negative impact),0.933333,2.627599453533361e-11,-0.11202933172790157
+Severe Housing Problems,Overcrowding,undirected destructive (positive impact),0.9899314,9.660832056667875e-47,0.6180325892318652
+Younger Than 18,Overcrowding,undirected destructive (positive impact),0.9680462,1.0763685629709367e-33,0.4324624580343107
+Uninsured Adults,Overcrowding,directed destructive (positive impact),0.8799823,2.2443249488243697e-16,0.4618099236183942
+Not Proficient In English,Overcrowding,directed destructive (positive impact),0.6282236,0.0905379305811478,0.4923458127416085
+Teen Birth Rate,Overcrowding,directed destructive (positive impact),0.523606,0.7639081789398368,0.364297459042004
+Severe Housing Costs,Overcrowding,directed destructive (positive impact),0.52327955,0.7682895867410867,0.14918529803887426
+Socio-Economic,Pct Unemployed,undirected destructive (positive impact),0.9889113000000002,7.241528654469571e-49,0.573267379482283
+Insufficient Sleep,Pct Unemployed,directed destructive (positive impact),0.8726434999999999,5.442703785872245e-12,0.4663704944963415
+Physically Unhealthy Days,Pct Unemployed,directed destructive (positive impact),0.8548789000000001,3.738620087749572e-08,0.5444077191368693
+Inadequate Facilities,Pct Unemployed,undirected destructive (positive impact),0.8216351000000001,4.651327006931315e-06,0.2891073824635856
+Uninsured Children,Pct Unemployed,directed protective (negative impact),0.7677895,0.00038688582634236005,-0.07933904507149643
+Uninsured Adults,Pct Uninsured,undirected destructive (positive impact),0.99762857,8.68068154069695e-67,0.9902376730826968
+Uninsured Children,Pct Uninsured,undirected destructive (positive impact),0.97923076,6.372827382008491e-38,0.8075418237584526
+Younger Than 18,Pct Uninsured,directed destructive (positive impact),0.660734,0.012704608161356969,0.2315243883216733
+Severe Housing Problems,Physical Environment,directed destructive (positive impact),0.8896120000000001,8.494010345087896e-11,0.2784888179142457
+Air Quality,Physical Environment,undirected destructive (positive impact),0.7959385,3.775957439060391e-05,0.34560736303212714
+Social Associations,Physical Environment,directed destructive (positive impact),0.79484653,0.00011687956592913509,0.2307007968510013
+Driving Alone,Physical Environment,undirected destructive (positive impact),0.7426206999999999,0.0014473100137848904,0.24917398056066145
+Association Rate,Physical Environment,directed protective (negative impact),0.60982084,0.145028844882163,-0.2571121591838039
+Diabetes Prevalence,Physically Inactive,undirected destructive (positive impact),0.9794827,1.0086698085006143e-39,0.7569385817892763
+Adult Obesity,Physically Inactive,undirected destructive (positive impact),0.95960796,8.759277812750715e-28,0.6904090927127564
+Teen Birth Rate,Physically Inactive,directed destructive (positive impact),0.9325687,7.294194955132706e-20,0.5330908298880427
+Lack of Exercise Opps,Physically Inactive,undirected protective (negative impact),0.66003674,0.017791578255237132,-0.453287947935034
+Freq Physical Distress,Physically Unhealthy Days,undirected destructive (positive impact),0.99592274,3.6270864920503363e-75,0.9824445483432755
+Mentally Unhealthy Days,Physically Unhealthy Days,directed destructive (positive impact),0.94564617,4.693311933711712e-38,0.9197751948127184
+Clinical Care,Prev Hospital Stays,undirected destructive (positive impact),0.9713063,3.0396919324529983e-27,0.44894062712818295
+African American,Prev Hospital Stays,directed destructive (positive impact),0.95990574,1.1023725791498764e-20,0.2626443027149244
+Driving Alone,Prev Hospital Stays,directed destructive (positive impact),0.94185114,2.819839346409969e-23,0.2591937790094355
+Physically Inactive,Prev Hospital Stays,directed destructive (positive impact),0.93499666,7.495057135052782e-24,0.4609319879042984
+Prim Care Physicians Ratio,Prim Care Physicians Rate,undirected protective (negative impact),0.99635327,1.3130850027835276e-60,-0.548752031851037
+Assault,Prim Care Physicians Rate,directed protective (negative impact),0.80823785,4.638713641158234e-05,-0.07725314076823997
+Dentist Rate,Prim Care Physicians Rate,undirected destructive (positive impact),0.5033571,0.9622021618295282,0.5160408759712773
+Prim Care Physicians Rate,Prim Care Physicians Ratio,undirected protective (negative impact),0.9953754,1.7147170214978542e-66,-0.548752031851037
+Assault,Prim Care Physicians Ratio,directed protective (negative impact),0.903306,1.0088086107632548e-08,-0.1085202076193158
+Social Associations,Rural,undirected protective (negative impact),0.9967432,1.5183130757242731e-74,-0.4695183716501358
+Lack of Exercise Opps,Rural,undirected protective (negative impact),0.94170874,6.2368223514812895e-16,-0.6061010410441914
+Hispanic,Rural,directed protective (negative impact),0.938382,1.1447421759260893e-21,-0.28177304942525744
+Older Than 65,Rural,undirected destructive (positive impact),0.8984593000000001,8.4891044372365e-14,0.4869730393873953
+Homeownership,Rural,directed destructive (positive impact),0.83108675,3.458419313593028e-13,0.5054227470691011
+Segregation(NonWhite/White),Segregation(Black/White),undirected destructive (positive impact),0.99589276,1.9665890136872633e-71,0.4879771793646646
+African American,Segregation(Black/White),directed protective (negative impact),0.9950737,3.468284645000571e-67,-0.3796728559344028
+Social Associations,Segregation(Black/White),directed destructive (positive impact),0.53291845,0.6537667590582674,0.18532074886575314
+Segregation(Black/White),Segregation(NonWhite/White),undirected destructive (positive impact),0.99524593,4.5538987777066295e-66,0.4879771793646646
+African American,Segregation(NonWhite/White),directed destructive (positive impact),0.9940306,1.8884461490006316e-63,0.052913313428442806
+Hispanic,Segregation(NonWhite/White),directed protective (negative impact),0.83068687,6.108629138781919e-08,-0.14971230526844448
+Native Hawaiian Islander,Segregation(NonWhite/White),directed protective (negative impact),0.50114083,0.9883434716726972,-0.0071608531616610144
+Severe Housing Problems,Severe Housing Costs,undirected destructive (positive impact),0.9966741,1.532290524252985e-80,0.7656051698454929
+Income Ratio,Severe Housing Costs,directed destructive (positive impact),0.8747833,1.1985306883849844e-09,0.4884654338274313
+Inadequate Facilities,Severe Housing Costs,directed protective (negative impact),0.68374676,0.014140623959857969,-0.038532989737513616
+Severe Housing Costs,Severe Housing Problems,undirected destructive (positive impact),0.99716395,4.6258137113567196e-66,0.7656051698454929
+Overcrowding,Severe Housing Problems,undirected destructive (positive impact),0.9912773,2.388751496528256e-48,0.6180325892318652
+Inadequate Facilities,Severe Housing Problems,undirected destructive (positive impact),0.97009647,1.9258221874086093e-25,0.39870979951616825
+Native Hawaiian Islander,Severe Housing Problems,directed destructive (positive impact),0.8104336999999999,1.986703360536748e-05,0.0977890580128178
+Homeownership,Sexual Trans Infect,undirected protective (negative impact),0.9881747,3.348222506280367e-58,-0.5197889596992897
+African American,Sexual Trans Infect,directed destructive (positive impact),0.98379284,2.5247762979000622e-43,0.5706089552822783
+Amer Indian/Alaskan Native,Sexual Trans Infect,directed destructive (positive impact),0.7126765,0.005417480972566727,0.3828569867013357
+Violent Crime Rate,Sexual Trans Infect,undirected destructive (positive impact),0.7099504,0.0016995950392893965,0.4485099890026129
+African American,Single Parent Households,directed destructive (positive impact),0.94163924,2.52525463088978e-23,0.6388571299166046
+Socio-Economic,Single Parent Households,undirected destructive (positive impact),0.90968275,1.5493198374072693e-15,0.5580686064643807
+Children In Poverty,Single Parent Households,undirected destructive (positive impact),0.86540973,2.3857443162806767e-11,0.6663124122851496
+Sexual Trans Infect,Single Parent Households,directed destructive (positive impact),0.82696545,7.746876867846898e-08,0.5445740763063974
+Younger Than 18,Single Parent Households,undirected protective (negative impact),0.6860326999999999,0.014026157434903014,-0.015259198848069169
+Cancer,Single Parent Households,directed destructive (positive impact),0.6393701,0.0753381421775757,0.3693827424563056
+Freq Mental Distress,Single Parent Households,directed destructive (positive impact),0.5196611,0.8034655113384661,0.5881686703061726
+Rural,Social Associations,undirected protective (negative impact),0.9920354,7.818191326586064e-55,-0.4695183716501358
+Segregation(NonWhite/White),Social Associations,directed destructive (positive impact),0.7377342,6.23458982192591e-06,0.22227159992726656
+Air Quality,Social Associations,undirected destructive (positive impact),0.5533511,0.26816687035023545,0.20535722169387688
+Asian,Social Associations,undirected destructive (positive impact),0.51989913,0.7840104631455811,0.4751047085783511
+Pct Unemployed,Socio-Economic,undirected destructive (positive impact),0.98399997,6.834737323213532e-48,0.573267379482283
+Children In Poverty,Socio-Economic,undirected destructive (positive impact),0.9824386,9.561720384772534e-46,0.6895632784015593
+Clinical Care,Socio-Economic,undirected destructive (positive impact),0.95057887,3.472013117882423e-22,0.5259731474748057
+Graduation Rate,Socio-Economic,undirected protective (negative impact),0.92344964,1.4178589631719994e-13,-0.33972997147511336
+Single Parent Households,Socio-Economic,undirected destructive (positive impact),0.57958287,0.2735484076268577,0.5580686064643807
+Mentally Unhealthy Days,Socio-Economic,directed destructive (positive impact),0.56014043,0.4599388271526216,0.351893151026783
+Teen Birth Rate,Some College,undirected protective (negative impact),0.9479313,7.626261332957532e-20,-0.6518966899705609
+Fair Or Poor Health,Some College,directed protective (negative impact),0.92989266,9.218194698441092e-14,-0.6729412122204739
+Clinical Care,Some College,directed protective (negative impact),0.9105994,5.962588994595847e-16,-0.5209126033424507
+Female,Some College,undirected destructive (positive impact),0.8724533999999999,4.205006660904277e-11,0.23580361785494625
+Assault,Some College,directed destructive (positive impact),0.86978865,4.4092544326996227e-11,0.05681330785845549
+Rural,Some College,directed protective (negative impact),0.7114764,0.009223987700298043,-0.31991152439276616
+Younger Than 18,Teen Birth Rate,undirected destructive (positive impact),0.97768265,7.282904507869975e-37,0.32366342929561337
+Children In Poverty,Teen Birth Rate,directed destructive (positive impact),0.9462109,7.604380979381378e-16,0.7042892039036577
+Some College,Teen Birth Rate,undirected protective (negative impact),0.88303244,1.4518617962150063e-15,-0.6518966899705609
+Fair Or Poor Health,Teen Birth Rate,directed destructive (positive impact),0.81021875,8.140671152896794e-11,0.7272095598779384
+Severe Housing Costs,Teen Birth Rate,directed protective (negative impact),0.7511938,0.0006939281886288553,-0.0461572457472194
+Pct Uninsured,Uninsured Adults,undirected destructive (positive impact),0.9962981,1.4554249538674939e-68,0.9902376730826968
+Uninsured Children,Uninsured Adults,directed destructive (positive impact),0.80131793,1.0216441819827657e-05,0.7281366794128286
+Younger Than 18,Uninsured Adults,directed destructive (positive impact),0.6848086999999999,0.01584813519583979,0.2833616203498905
+Pct Uninsured,Uninsured Children,undirected destructive (positive impact),0.9976567,6.466239240347285e-84,0.8075418237584526
+African American,Uninsured Children,directed protective (negative impact),0.968038,1.625512772147218e-33,-0.14546216433927334
+Rural,Uninsured Children,directed destructive (positive impact),0.8958360000000001,1.6247058480219163e-10,0.2893899056246473
+Assault,Uninsured Children,directed destructive (positive impact),0.52944523,0.6858754549688516,0.20397964237450586
+Social Associations,Violent Crime Rate,directed destructive (positive impact),0.95035994,1.3723430130023003e-16,0.2585714366343005
+Sexual Trans Infect,Violent Crime Rate,undirected destructive (positive impact),0.9368999,1.416624807880066e-26,0.4485099890026129
+Teen Birth Rate,Violent Crime Rate,directed destructive (positive impact),0.83903354,1.5112557444539264e-08,0.2606592816144173
+Rural,Violent Crime Rate,directed protective (negative impact),0.62465596,0.08848496976377597,-0.3383748791689399
+Older Than 65,Younger Than 18,undirected protective (negative impact),0.99597657,2.315905228670477e-64,-0.5855777064238767
+Teen Birth Rate,Younger Than 18,undirected destructive (positive impact),0.97992986,3.922446257958501e-33,0.32366342929561337
+Severe Housing Costs,Younger Than 18,directed protective (negative impact),0.96988213,5.110310657632004e-28,-0.1804286571810284
+Female,Younger Than 18,undirected destructive (positive impact),0.93642867,2.4844226286889325e-14,0.1828070809432593
+Insufficient Sleep,Younger Than 18,directed protective (negative impact),0.84258384,6.340664646033552e-07,-0.01352777822306946
+Overcrowding,Younger Than 18,undirected destructive (positive impact),0.7271474,0.001884225749678969,0.4324624580343107
+Despair,Younger Than 18,directed protective (negative impact),0.6036285,0.1755682119620098,-0.060085013793851866
+Single Parent Households,Younger Than 18,undirected protective (negative impact),0.5819350999999999,0.3242184023012169,-0.015259198848069169
+Low Birthweight,Younger Than 18,directed protective (negative impact),0.5253019,0.7584034547654745,-0.07539976179645579
